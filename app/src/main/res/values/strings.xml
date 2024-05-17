@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizAchievement</string>
+    <string name="post_task">Post task</string>
+    <string name="add_task">Add task</string>
+    <string name="survey">Survey</string>
+    <string name="quiz_achievement">Quiz Achievement</string>
+
+</resources>
